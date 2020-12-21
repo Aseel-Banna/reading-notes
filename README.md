@@ -12,3 +12,10 @@
   - Criticism
   - Success of others
 - Growth Mindset is not used only in the work, you can use it ouside the work, too.
+# **How you can remind yourself to keep in a growth mindset**
+In my opinion, person can keep him/her self by following these steps:
+- Reading.
+- Playing games that need high level of IQ.
+- Learning new things related to your skills.
+
+Aseel Albanna, 23 years old, computer enginner.
