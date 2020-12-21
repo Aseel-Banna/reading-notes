@@ -1,0 +1,19 @@
+# ***Coder's Computer***
+- Users can use different text editors, because choosing a text editor is a personal choice.
+- All text editors are doing the same job, so you can use any text editor to make a complete web site.
+- The best text editor is the one that you enjoy using the most.
+- Text editor is a software on a computer allows the user to write text even the texts that are used to build a website because it has important tools and features user can use to build a website.
+- There are some factors depend on choosing the text editor such as code completion and syntax highlighting.HTML and CSS files using text editors.
+- There are software that comes with computers by default, one of them is the text editor.
+- IDE is a type of text editor and it is a software package.
+- Some of text editors are free and suitable for all operating system such as Visual Studio Code, Atom and Brackets. Some of them are suitable for Mac OS only like TextWrangler. And some of them are paid such as Sublime Text.
+- GitHub is a place where you can find help in coding and it is an online service.
+- Commands are different from user interface to another but they are doing the same job.
+- Commands can be doing at the same time while doing different tasks.
+- Commands are texts or abbreviations that indicate a work and you can type by keyboard.
+- There are two types of paths, absolute and relative.
+- Paths are used to specify the location or directory. 
+- Absolute paths start with forward slash (/..) and they specify the root directory.
+- Relative paths specify the current location in the system.
+- Everything is a file but with different extensions that determine the type of the file.
+- Linux commands are case sensitive.
