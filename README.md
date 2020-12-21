@@ -6,9 +6,9 @@
 - Fixed Mindset can fix the intelligance and talent.
 - The difference between fixed and growth mindset is that fixed mindset will fail to reach full potential while growth mindset will acheive more and higher goals.
 - There are some ways to maintain a growth mindset: 
- - Challenging
- - Obstacles
- - Effort
- - Criticism
- - Success of others
+  - Challenging
+  - Obstacles
+  - Effort
+  - Criticism
+  - Success of others
 - Growth Mindset is not used only in the work, you can use it ouside the work, too.
