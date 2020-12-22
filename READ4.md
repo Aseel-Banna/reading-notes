@@ -58,7 +58,7 @@ First of all, you have to decide who will use your website ***"target audience"*
   Also, it could contain the list elements with links.
 - The article element is a container for any section of a page.
 - The aside element is depending on the article, is it inside the article or not.
-  - When the ("<aside>") element is used inside an ("<article>") element, it should contain information that is related to the article but not essential to its overall meaning. 
+  - When the (<"aside">) element is used inside an ("<article>") element, it should contain information that is related to the article but not essential to its overall meaning. 
   - When the ("<aside>") element is used outside of an ("<article>") element, it acts as a container for content that is related to the entire page.
 - The ("<section>") element used to make groups related in content together.
 - The ("<hgroup>") element used to make heading groups together contain pf a set of one or more.
