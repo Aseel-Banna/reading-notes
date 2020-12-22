@@ -58,20 +58,20 @@ First of all, you have to decide who will use your website ***"target audience"*
   Also, it could contain the list elements with links.
 - The article element is a container for any section of a page.
 - The aside element is depending on the article, is it inside the article or not.
-  - When the (<"aside">) element is used inside an ("<article>") element, it should contain information that is related to the article but not essential to its overall meaning. 
-  - When the ("<aside>") element is used outside of an ("<article>") element, it acts as a container for content that is related to the entire page.
-- The ("<section>") element used to make groups related in content together.
-- The ("<hgroup>") element used to make heading groups together contain pf a set of one or more.
-- The ("<figure>") element used to contain any content of images, vidoes, ...etc.
-- The ("<a>") element used to contain links.
+  - When the (<"aside">) element is used inside an (<"article">) element, it should contain information that is related to the article but not essential to its overall meaning. 
+  - When the (<"aside">) element is used outside of an (<"article">) element, it acts as a container for content that is related to the entire page.
+- The (<"section">) element used to make groups related in content together.
+- The (<"hgroup">) element used to make heading groups together contain pf a set of one or more.
+- The (<"figure">) element used to contain any content of images, vidoes, ...etc.
+- The (<"a">) element used to contain links.
 
 # Chapter 8 - Extra Markup
 - There are several different versions of HTML files.
 - Each web page should begin with a DOCTYPE declaration to tell a browser which version of HTML the page is using.
 - ***Inline elements:*** elements that appear to continue on the same line as their neighbouring elements. 
-- The ("<span>") element is used to contain a section of text or a number of inline elements.
-- Developers use the ("<span>") element tocontrol the appearance of the content of these elements using CSS.
-- The ("<iframe>") is used to contain some attributes such as: source (src), width, height, scrolling, framborder and seamless.
+- The (<"span">) element is used to contain a section of text or a number of inline elements.
+- Developers use the (<"span">) element tocontrol the appearance of the content of these elements using CSS.
+- The (<"iframe">) is used to contain some attributes such as: source (src), width, height, scrolling, framborder and seamless.
 - ***Meta Tags:*** they are used inside the head of the html files and they are not visible to users.
 
 
