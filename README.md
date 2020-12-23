@@ -7,4 +7,5 @@ The Code's Computer | [Topic 3](https://aseel-banna.github.io/reading-notes/CODE
 Revisions and Cloud | [Topic 4](https://aseel-banna.github.io/reading-notes/CLOUDREAD)
 The Growth Mindset | [Topic 5](https://aseel-banna.github.io/reading-notes/TABLE)
 Building Website | [Topic 6](https://aseel-banna.github.io/reading-notes/READ4)
+JavaScript | [Topic 7](https://aseel-banna.github.io/reading-notes/JAVASCRIPT1)
 
