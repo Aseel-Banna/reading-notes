@@ -8,4 +8,5 @@ Revisions and Cloud | [Topic 4](https://aseel-banna.github.io/reading-notes/CLOU
 The Growth Mindset | [Topic 5](https://aseel-banna.github.io/reading-notes/TABLE)
 Building Website | [Topic 6](https://aseel-banna.github.io/reading-notes/READ4)
 JavaScript | [Topic 7](https://aseel-banna.github.io/reading-notes/JAVASCRIPT1)
+Vidoes Notes | [Topic 8](https://aseel-banna.github.io/reading-notes/VIDEOSNOTE)
 
