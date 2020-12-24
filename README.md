@@ -10,4 +10,4 @@ Building Website | [Topic 6](https://aseel-banna.github.io/reading-notes/READ4)
 JavaScript | [Topic 7](https://aseel-banna.github.io/reading-notes/JAVASCRIPT1)
 Vidoes Notes | [Topic 8](https://aseel-banna.github.io/reading-notes/VIDEOSNOTE)
 Programming with JavaScript | [Topic 9](https://aseel-banna.github.io/reading-notes/READ7)
-
+Operators and Loops | [Topic 10](https://aseel-banna.github.io/reading-notes/READ8)
