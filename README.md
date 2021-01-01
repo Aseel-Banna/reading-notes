@@ -16,6 +16,7 @@ Colors | [Topic 11](https://aseel-banna.github.io/reading-notes/READ5)
 
 
 # Code 201 Reading Notes
+## Table of Contents
 Topic Name | Links
 ---------- | -----
 Class-01  | [Topic 1](https://aseel-banna.github.io/reading-notes/class-01)
