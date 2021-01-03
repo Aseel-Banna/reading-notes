@@ -20,3 +20,4 @@ Colors | [Topic 11](https://aseel-banna.github.io/reading-notes/READ5)
 Topic Name | Links
 ---------- | -----
 Class-01  | [Topic 1](https://aseel-banna.github.io/reading-notes/class-01)
+Class-02  | [Topic 2](https://aseel-banna.github.io/reading-notes/class-02)
