@@ -1,3 +1,9 @@
+# Aseel Albanna
+### I am a computer engineering. My interest in software development began when I was working on my graduation project, which was a medical application. So, I had to learn and read about android mobile applications and I did. I started working and learning how to use Android Studio to make a medical application with different features that can help patients to ease their life. Even healthy people can use this app as a medicine dictionary.
+### I have finished my work within 4 months and I had get “A” in graduation project and I am so proud of that. 
+### Here you can find all of my reading notes.
+
+
 # Code 102 Reading Notes
 ## Table of Contents
 Topic Name | Links
