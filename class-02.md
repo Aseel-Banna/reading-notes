@@ -96,10 +96,10 @@
   - != : compares values of any data type. It retuns true if the values are not equal to each other and false if they are equal.
   - === : compares values of the same data type. It retuns true if the values and the data type are equal to each other and false if they are not.
   - !=== :compares values of the same data type. It retuns true if the values and the data type are not equal to each other and false if they are equal in value and same data type.
-  - > : compares values and returns true if the first value is greater than the other one.
-  - < : compares values and returns true if the first value is smaller than the other one.
-  - >= : compares values and returns true if the first value is greater or equal the other one.
-  - <= : compares values and returns true if the first value is smaller or equal the other one.
+  - ***>*** : compares values and returns true if the first value is greater than the other one.
+  - ***<*** : compares values and returns true if the first value is smaller than the other one.
+  - ***>=*** : compares values and returns true if the first value is greater or equal the other one.
+  - ***<=*** : compares values and returns true if the first value is smaller or equal the other one.
 
 - Logical Operators
   - && : it can test more than one condition and return true if both of them are true.
