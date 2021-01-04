@@ -27,3 +27,4 @@ Topic Name | Links
 ---------- | -----
 Class-01  | [Topic 1](https://aseel-banna.github.io/reading-notes/class-01)
 Class-02  | [Topic 2](https://aseel-banna.github.io/reading-notes/class-02)
+Class-03  | [Topic 3](https://aseel-banna.github.io/reading-notes/class-03)
