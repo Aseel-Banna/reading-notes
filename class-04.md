@@ -69,7 +69,7 @@
 
 
 ### Article: 6 Reasons for Pair Programming 
-[6 Reasons for Pair Programming]('https://www.codefellows.org/blog/6-reasons-for-pair-programming') 
+[6 Reasons for Pair Programming]('https://www.codefellows.org/blog/6-reasons-for-pair-programming/') 
 - Improving the quality, you can use iterative loops, code reviews, fast feedback and error checking and linting.
 - Pair programming is the practice of two developers sharing a single workstation to interactively tackle a coding task together. 
 - Pair Programming involves two roles: the Driver and the Navigator.
