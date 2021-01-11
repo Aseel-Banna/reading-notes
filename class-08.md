@@ -1,0 +1,26 @@
+# Layout
+- The HTML box will be either block-level box or inline box.
+- The block-level box starts on a new line.
+- The inline flows in between surrounding text.
+- Containing Elements: when one block-level element sits inside another block-level element.
+- Normal flow: Every block-level element appears on a new line, causing each item to appear lower down the page than the previous one.
+- Relative Positioning: This moves an element from the position it would be in normal flow, shifting it to the top, right, bottom, or left of where it would have been placed.
+- Absolute positioning: This positions the element in relation to its containing element.
+- The box offset property is used to tell the browser how far from the top or bottom and left or right it should be placed.
+- To use normal flow, you can set this property to position: static;
+- To use relative position, you can set this property to position: **relative**;
+- To use absolute position, you can set this property to position: **absolute**;
+- To use fixed position, you can set this property to position: **fixed**;
+- Using float property you can set where the index will appear.
+  - *width*: This sets the width of the columns.
+  - *float*: This positions the columns next to each other.
+  - *margin*: This creates a gap betweeen the columns.
+- There are some other factors that you have to consider when you are creating a web page such as:
+  - Screen Sizes.
+  - Screen Resolution.
+  - Page Sizes.
+- Fixed width layout designs do not change size as the user increases or decreases the size of their browser window.
+- Liquid layout designs stretch and contract as the user increases or decreases the size of their browser window.
+- Many designers use a grid structure to help them position items on a page, and the same is true for web designers.
+- CSS frameworks aim to make your life easier by providing the code for common tasks.
+- You can link your HTML page to a css files using (@import or <**link**>).
