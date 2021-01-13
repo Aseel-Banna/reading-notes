@@ -34,4 +34,5 @@ Class-06  | [Topic 6](https://aseel-banna.github.io/reading-notes/class-06)
 Class-07  | [Topic 7](https://aseel-banna.github.io/reading-notes/class-07)
 Class-08  | [Topic 8](https://aseel-banna.github.io/reading-notes/class-08)
 Class-09  | [Topic 9](https://aseel-banna.github.io/reading-notes/class-09)
+Class-10  | [Topic 10](https://aseel-banna.github.io/reading-notes/class-10)
 
