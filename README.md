@@ -37,4 +37,5 @@ Class-09  | [Topic 9](https://aseel-banna.github.io/reading-notes/class-09)
 Class-10  | [Topic 10](https://aseel-banna.github.io/reading-notes/class-10)
 Class-11  | [Topic 11](https://aseel-banna.github.io/reading-notes/class-11)
 Class-12  | [Topic 12](https://aseel-banna.github.io/reading-notes/class-12)
+Class-13  | [Topic 13](https://aseel-banna.github.io/reading-notes/class-13)
 
