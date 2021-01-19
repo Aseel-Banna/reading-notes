@@ -1,0 +1,17 @@
+# What Google Learned From Its Quest to Build the Perfect Team
+- On corporate campuses and within university laboratories, psychologists, sociologists and statisticians are devoting themselves to studying everything from team composition to email patterns in order to figure out how to make employees into faster, better and more productive versions of themselves.
+- Yet many of today’s most valuable firms have come to realize that analyzing and improving individual workers ­— a practice known as ‘‘employee performance optimization’’ — isn’t enough.
+- As commerce becomes increasingly global and complex, the bulk of modern work is more and more team-based.
+- Software engineers are encouraged to work together, in part because studies show that groups tend to innovate faster, see mistakes more quickly and find better solutions to problems.
+- Studies also show that people working in teams tend to achieve better results and report higher job satisfaction. 
+- Five years ago, Google — one of the most public proselytizers of how studying workers can transform productivity — became focused on building the perfect team. 
+- Google’s People Operations department has scrutinized everything from how frequently particular people eat together.
+- The most productive employees tend to build larger networks by rotating dining companions.
+- The company’s top executives long believed that building the best teams meant combining the best people.
+- Project Aristotle’s researchers began by reviewing a half-century of academic studies looking at how teams worked.
+- No matter how researchers arranged the data, though, it was almost impossible to find patterns — or any evidence that the composition of a team made any difference. 
+- Some groups that were ranked among Google’s most effective teams, for instance, were composed of friends who socialized outside work. 
+- Project Aristotle’s researchers began searching through the data they had collected, looking for norms. 
+- They looked for instances when team members described a particular behavior as an ‘‘unwritten rule’’ or when they explained certain things as part of the ‘‘team’s culture.’’
+- The good teams all had high ‘‘average social sensitivity’’ — a fancy way of saying they were skilled at intuiting how others felt based on their tone of voice, their expressions and other nonverbal cues.
+- One of the easiest ways to gauge social sensitivity is to show someone photos of people’s eyes and ask him or her to describe what the people are thinking or feeling — an exam known as the Reading the Mind in the Eyes test. 
