@@ -4,7 +4,7 @@
 ### Here you can find all of my reading notes.
 
 
-# Code 102 Reading Notes
+# Code 102 Intro to Software Development
 ## Table of Contents
 Topic Name | Links
 ---------- | -----
@@ -21,7 +21,7 @@ Operators and Loops | [Topic 10](https://aseel-banna.github.io/reading-notes/REA
 Colors | [Topic 11](https://aseel-banna.github.io/reading-notes/READ5)
 
 
-# Code 201 Reading Notes
+# Code 201 Foundations of Software Development
 ## Table of Contents
 Topic Name | Links
 ---------- | -----
@@ -40,4 +40,11 @@ Class-12  | [Topic 12](https://aseel-banna.github.io/reading-notes/class-12)
 Class-13  | [Topic 13](https://aseel-banna.github.io/reading-notes/class-13)
 Class-14A  | [Topic 14A](https://aseel-banna.github.io/reading-notes/class-14A)
 Class-14B  | [Topic 14B](https://aseel-banna.github.io/reading-notes/class-14B)
+
+
+# Code 301 - Intermediate Software Development
+## Table of Contents
+Topic Name | Links
+---------- | -----
+
 
