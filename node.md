@@ -2,14 +2,14 @@
 - Node.js is used to build a server for a website.
 - To create a server:
   - Create a JavaScript file.
-  <!-- ```
+  ``` js
     var http = require("http");
     http.createServer(function(request, response) {
     response.writeHead(200, {"Content-Type": "text/plain"});
     response.write("It's alive!");
     response.end();
     }).listen(3000);
-  ``` -->
+  ``` 
   - Make sure that it is working fine by running this command:
   ***node server.js***
   - Node provides you with non-blocking and event-driven behavior.
