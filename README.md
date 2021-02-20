@@ -51,4 +51,5 @@ Read-02  | [Topic 2](https://aseel-banna.github.io/reading-notes/read2)
 Read-03  | [Topic 3](https://aseel-banna.github.io/reading-notes/read3)
 Read-04  | [Topic 4](https://aseel-banna.github.io/reading-notes/responsive)
 Read-05  | [Topic 5](https://aseel-banna.github.io/reading-notes/node)
+Read-06  | [Topic 6](https://aseel-banna.github.io/reading-notes/node2)
 
