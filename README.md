@@ -54,4 +54,5 @@ Read-05  | [Topic 5](https://aseel-banna.github.io/reading-notes/node)
 Read-06  | [Topic 6](https://aseel-banna.github.io/reading-notes/node2)
 Read-07  | [Topic 7](https://aseel-banna.github.io/reading-notes/reset)
 Read-08  | [Topic 8](https://aseel-banna.github.io/reading-notes/sql)
+Read-09  | [Topic 9](https://aseel-banna.github.io/reading-notes/refactor)
 
