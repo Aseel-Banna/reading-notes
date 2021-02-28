@@ -57,4 +57,5 @@ Read-08  | [Topic 8](https://aseel-banna.github.io/reading-notes/sql)
 Read-09  | [Topic 9](https://aseel-banna.github.io/reading-notes/refactor)
 Read-10  | [Topic 10](https://aseel-banna.github.io/reading-notes/call)
 Read-11  | [Topic 11](https://aseel-banna.github.io/reading-notes/google-api)
+Read-12  | [Topic 12](https://aseel-banna.github.io/reading-notes/components)
 
