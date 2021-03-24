@@ -6,8 +6,8 @@
 ### Here you can find all of my reading notes during all levels.
 
 ## Table of Contents
-Topic Name | Links
----------- | -----
+Level | Course Name | Link
+------| ----------- | ----
 Code 102 | Intro to Software Development  | [Repo 1](https://github.com/Aseel-Banna/code-101-reading-notes)
 Code 201 | Foundations of Software Development | [Repo 2](https://github.com/Aseel-Banna/code-201-reading-notes)
 Code 301 | Intermediate Software Development | [Repo 3](https://github.com/Aseel-Banna/code-301-reading-notes)
