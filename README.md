@@ -6,7 +6,7 @@
 ### Here you can find all of my reading notes during all levels.
 
 
-[Code 102: Intro to Software Development](https://github.com/Aseel-Banna/code-101-reading-notes)<br/>
-[Code 201: Foundations of Software Development](https://github.com/Aseel-Banna/code-201-reading-notes)<br/>
-[Code 301: Intermediate Software Development](https://github.com/Aseel-Banna/code-301-reading-notes)<br/>
-[Code 401; Advanced Software Development in Java](https://github.com/Aseel-Banna/code-401-reading-notes)
+## [Code 102: Intro to Software Development](https://github.com/Aseel-Banna/code-101-reading-notes)<br/>
+## [Code 201: Foundations of Software Development](https://github.com/Aseel-Banna/code-201-reading-notes)<br/>
+## [Code 301: Intermediate Software Development](https://github.com/Aseel-Banna/code-301-reading-notes)<br/>
+## [Code 401; Advanced Software Development in Java](https://github.com/Aseel-Banna/code-401-reading-notes)
