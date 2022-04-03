@@ -1,5 +1,5 @@
 # Reading Notes
-Hello there, I am Aseel Albanna, a computer and software engineer. 
+Hello there, I am Aseel Albanna, a computer and software engineer. <br>Computer Engineering has many departments and fields, but actually, one of these fields and departments has faced my intreset, which is development. I like how to convert your own ideas that are placed in your mind to features that people can use and deal with.  So, I decided to start working on my graduation project, which is a medical android application, with no idea about the tools, enviroments, languages, ...etc. But one of my special princibles in life that <b>I know how to know</b>.
 My interest in software development began when I was working on my graduation project, which was a medical application (Android Application). So, I had to learn and read about android mobile applications to get a general idea about the enviroment and frameworks. I started working and learning how to use Android Studio to make a medical application with different features that can help patients to ease their life. Even healthy people can use this app as a medicine dictionary.
 ### I have finished my work within 4 months and I had get “A” in graduation project and I am so proud of that. 
 ### After the graduation, I attented a free scholarship for ***Software Development*** in LTUC-ASAC.
